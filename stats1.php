@@ -33,6 +33,8 @@
             no switching has been done: */
             while (switching) {
                 // Start by saying: no switching is done:
+
+		#srill prob
                 switching = false;
                 rows = table.getElementsByTagName("TR");
                 /* Loop through all table rows (except the
