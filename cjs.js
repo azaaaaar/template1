@@ -22,6 +22,7 @@ module.exports = function (config) {
     angularCli: {
       environment: 'dev'
     },
+    #remove continue client
     reporters: ['progress', 'kjhtml'],
     port: 9876,
     colors: true,
