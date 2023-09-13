@@ -231,6 +231,7 @@ Refresh:
 <pre>
 ===========================================================
 Filimo Downloader - version 0.1.0 - Copyright 2017
+edited by azar
 By Nabi KaramAliZadeh &lt;www.nabi.ir&gt; &lt;nabikaz@gmail.com&gt;
 Signup here: http://filimo.com/invite/NabiKAZ/a8ca
 Project link: https://github.com/NabiKAZ/filimo-downloader
