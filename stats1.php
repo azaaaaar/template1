@@ -1,4 +1,4 @@
-#help
+// start of the numberical point
 <!DOCTYPE html>
 <html>
 <head>
