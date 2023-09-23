@@ -20,6 +20,7 @@ module.exports = function (config) {
       fixWebpackSourcePaths: true
       // from here
     },
+    //nine sector
     angularCli: {
       environment: 'dev'
     },
