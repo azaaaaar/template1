@@ -232,6 +232,7 @@ Refresh:
 ===========================================================
 Filimo Downloader - version 0.1.0 - Copyright 2017
 edited by azar
+	in 2023
 ===========================================================
 </pre>
 #locate it here  after core
