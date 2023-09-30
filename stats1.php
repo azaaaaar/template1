@@ -234,6 +234,13 @@ Filimo Downloader - version 0.1.0 - Copyright 2017
 edited by azar
 	in 2023
 ===========================================================
+	
+        $modified_date = date('Y-m-d H:i:s', filemtime($filename_log));
+        if (is_file($filename_video)) {
+            $filesize = filesize_formatted($filename_video);
+        } else {
+            $filesize7 = 0;
+        }
 </pre>
 #locate it here  after core
 </body>
