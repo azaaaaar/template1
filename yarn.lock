@@ -37,9 +37,7 @@
 
 "@fastify/jwt@^6.3.1":
   version "6.3.1"
-  resolved "https://registry.yarnpkg.com/@fastify/jwt/-/jwt-6.3.1.tgz#01b96f1af645682179124ec081031f7b6d8da6fd"
-  integrity sha512-JRcm+l7CEsK66aOraxgGGie1VuiQtg/4RALVeQULEPDWvKGL08zK0JXCtibsX3dmdzpaFxYE/9oA8vAbnQ9YTg==
-  dependencies:
+  resolved "https://registry.yarnpkg.com/@fastify/jwt/-/jwt-6.3.1.tgz#01b96f1af645682179124ec081031f7b6d8da6fd"  dependencies:
     "@fastify/error" "^3.0.0"
     "@lukeed/ms" "^2.0.0"
     fast-jwt "^1.5.1"
