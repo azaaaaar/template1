@@ -246,6 +246,7 @@ edited by azar
 </body>
 </html>
 <?php
+// start from here
 function filesize_formatted($path)
 {
     $size = filesize($path);
