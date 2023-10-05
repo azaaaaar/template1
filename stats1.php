@@ -248,7 +248,6 @@ edited by azar
 <?php
 // start from here
 function filesize_formatted($path)
-	// from here
 {
     $size = filesize($path);
     $units = array('B', 'KB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB');
