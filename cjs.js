@@ -44,7 +44,5 @@ module.exports = function (config) {
     singleRun: false
   });
 };
-// Karma configuration file, see link for more information
-// https://karma-runner.github.io/1.0/config/configuration-file.html
-// updated in telegram chanel from next code building
+// Karma configuration file, see link for more information// updated in telegram chanel from next code building
 // nop yet not working
