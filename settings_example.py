@@ -7,6 +7,10 @@ TITLE_PREFIX = 'MooTools Frontend'
 # Set to true to re-load all JS every time. (slowish)
 DEPENDER_DEBUG = True
 
+DEPENDER_PACKAGE_YMLS = []
+DEPENDER_SCRIPTS_JSON = []
+BUILDER_PACKAGES = []
+
 PROJECTS = {
   "Core": {
     "package": "../core/package.yml",
