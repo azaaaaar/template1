@@ -158,7 +158,6 @@ Refresh:
             $filesize = 0;
         }
 
-		echo "<td><a href='$filename_cover' target='_blank'><img src='$filename_cover' width='70'></a></td>\n";
         echo "<td><a href='$filename_video' target='_blank'>$filename.mp4</a></td>\n";
 
         $content = @file_get_contents($filename_info);
