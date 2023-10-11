@@ -16,6 +16,7 @@ PROJECTS = {
     "package": "../core/package.yml",
     "specs": [
       "../core-specs/1.3base/package.yml",
+      // stopped
       "../core-specs/1.3client/package.yml"
     ],
     "docs": "../core/Docs",
