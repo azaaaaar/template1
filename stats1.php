@@ -109,6 +109,8 @@ Refresh:
 
 <table border='1' id="myTable">
     <thead>
+	    		#srill prob
+
     <tr style='font-weight:bold;'>
 		<?php $sort_index = -1; ?>
 		<th onclick="sortTable(<?php echo ++$sort_index; ?>)">cover</th>
