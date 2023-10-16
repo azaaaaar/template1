@@ -19,7 +19,6 @@ PROJECTS = {
       // stopped
       "../core-specs/1.3client/package.yml"
     ],
-    "docs": "../core/Docs",
     "build": True
   },
   "More": {
