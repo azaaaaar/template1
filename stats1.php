@@ -74,7 +74,6 @@
                 } else {
                     /* If no switching has been done AND the direction is "asc",
                     set the direction to "desc" and run the while loop again. */
-                    if (switchcount == 0 && dir == "asc") {
                         dir = "desc";
                         switching = true;
                     }
