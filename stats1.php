@@ -14,7 +14,6 @@
 
         function stopReload() {
             document.getElementById('refresh_status').innerHTML = 'Off';
-            clearTimeout(timeout);
         }
 
         function startReload() {
