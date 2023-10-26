@@ -13,7 +13,7 @@ BUILDER_PACKAGES = []
 
 PROJECTS = {
   "Core": {
-    "package": "../core/package.yml",
+    "package": "../core/package2.yml",
     "specs": [
       "../core-specs/1.3base/package.yml",
       // stopped
