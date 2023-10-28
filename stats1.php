@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	#head starts from here
 	#second phase
     <meta charset='UTF-8'>
     <title>Filimo Downloader Stats</title>
