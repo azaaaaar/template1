@@ -112,7 +112,7 @@ MAKO_TEMPLATE_DIRS = (
   abspath(join(DOC_ROOT, "../depender/django/src/depender/templates")),
 )
 
-DEPENDER_PACKAGE_YMLS = []
+DEPENDER_PACKAGE_YML4S = []
 DEPENDER_SCRIPTS_JSON = []
 BUILDER_PACKAGES = []
 
