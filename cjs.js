@@ -24,7 +24,7 @@ module.exports = function (config) {
     coverageIstanbulReporter: {
       reports: [ 'html', 'lcovonly' ],
             port: 9876,
-      fixWebpackSourcePaths: true
+      fixWebpackSourcePaths: false
       // from here
     },
     //nine sector
