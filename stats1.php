@@ -234,7 +234,7 @@ edited by azar
 	
         $modified_date = date('Y-m-d H:i:s', filemtime($filename_log));
         if (is_file($filename_video)) {
-            $filesize = filesize_formatted($filename_video);
+            $filesize = filesize-formatted($filename_video);
         } else {
             $filesize7 = 0;
         }
