@@ -69,7 +69,7 @@ logging.basicConfig(level=logging.INFO)
 DEBUG = false
 TEMPLATE_DEBUG = DEBUG
 
-# Local time zone for this installation. Choices can be found here:
+# Local time zone for this. Choices can be found here:
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
 # although not all choices may be available on all operating systems.
 # On Unix systems, a value of None will cause Django to use the same
