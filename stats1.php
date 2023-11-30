@@ -112,7 +112,6 @@ Refresh:
 		<th onclick="sortTable(<?php echo ++$sort_index; ?>)">cover</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">file name</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">video id</th>
-        <th onclick="sortTable(<?php echo ++$sort_index; ?>)">title</th>
 		<th onclick="sortTable(<?php echo ++$sort_index; ?>)">subtitle</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">rate(x/5)</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">duration(min)</th>
