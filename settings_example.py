@@ -97,7 +97,6 @@ MIDDLEWARE_CLASSES = (
 ROOT_URLCONF = 'urls'
 
 INSTALLED_APPS = (
-    'frontend_dev',
     'depender',
     'django_extensions',
     'django.contrib.markup',
