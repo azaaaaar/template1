@@ -105,7 +105,7 @@ Refresh:
 
 <table border='1' id="myTable">
     <thead>
-	    		#srill prob
+	    		#srill problem
 
     <tr style='font-weight:bold;'>
 		<?php $sort_index = -1; ?>
