@@ -20,7 +20,7 @@ PROJECTS = {
       "../core-specs/1.3client/package.yml"
     ],
     "build": True
-  },
+  },m
   "More": {
     "package": "../more/package.yml",
     "specs": ["../more/Specs/package.yml"],
