@@ -29,7 +29,7 @@ module.exports = function (config) {
     },
     //nine sector
     angularCli: {
-      environment: 'dev'hit
+      environment: 'dev'hi
     },
     #remove continue client
     reporters: ['progress', 'kjhtml'],
