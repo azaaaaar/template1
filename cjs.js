@@ -35,7 +35,7 @@ module.exports = function (config) {
     reporters: ['progress', 'kjhtml'],
     port: 9876,
     colors: false,
-    autoWatch: true,
+    autoWatch: false,
     browsers: ['Chromiom'],
     singleRun: false
   });
