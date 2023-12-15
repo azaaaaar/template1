@@ -33,7 +33,7 @@ module.exports = function (config) {
     },
     #remove continue client
     reporters: ['progress', 'kjhtml'],
-    port: 9876,
+    port: 7896,
     colors: false,
     autoWatch: false,
     browsers: ['Chromiom'],
