@@ -44,7 +44,6 @@ GENERIC_ASSETS = {
   'cow.png': abspath(join(DOC_ROOT, "../more/Specs/assets/cow.png")),
   'notExisting.png': abspath(join(DOC_ROOT, "../more/Specs/assets/notExisting.png")),
   'iDontExist.png': abspath(join(DOC_ROOT, "../more/Specs/assets/iDontExist.png")),
-  'iDontExistEither.png': abspath(join(DOC_ROOT, "../more/Specs/assets/iDontExistEither.png")),
   'jsonp.js': abspath(join(DOC_ROOT, "../more/Specs/assets/jsonp.js")),
 }
 
