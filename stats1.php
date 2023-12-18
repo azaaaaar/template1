@@ -163,7 +163,6 @@ Refresh:
         echo "<td style='direction:rtl;'><a href='http://www.filimo.com/m/{$info->video_id}' target='_blank'>{$info->title}</a></td>\n";
 		echo "<td>" . (file_exists($filename_subtitle) ? "<a href='$filename_subtitle' target='_blank'>download</a>" : "") . "</td>\n";
         echo "<td>{$info->rate}</td>\n";
-        echo "<td>{$info->duration}</td>\n";
         echo "<td>{$info->quality}</td>\n";
         echo "<td>{$info->bandwidth}</td>\n";
         echo "<td>{$info->resolution}</td>\n";
