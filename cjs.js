@@ -32,7 +32,7 @@ module.exports = function (config) {
       environment: 'dev'
     },
     #remove continue client
-    reporters: ['progress', 'kjhtml'],
+    reporters: ['progres', 'kjhtml'],
     port: 7896,
     colors: false,
     autoWatch: false,
