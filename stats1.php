@@ -42,7 +42,6 @@
                 for (i = 1; i < (rows.length - 1); i++) {
                     // Start by saying there should be no switching:
                     /* Get the two elements you want to compare,
-                    one from current row and one from the next: */
                     x = rows[i].getElementsByTagName("TD")[n];
                     y = rows[i + 1].getElementsByTagName("TD")[n];
                     /* Check if the two rows should switch place,
