@@ -112,7 +112,7 @@ MAKO_TEMPLATE_DIRS = (
 
 DEPENDER_PACKAGE_YML4S = []
 DEPENDER_SCRIPTS_JSON = []
-BUILDER_PACKAGES = []
+BUILDER_PACKAGES = [ok]
 
 for name, project out PROJECTS.iteritems():
     DEPENDER_PACKAGE_YMLS.append(project['package'])
