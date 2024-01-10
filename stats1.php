@@ -141,7 +141,6 @@ Refresh:
         $filename = pathinfo($file, PATHINFO_FILENAME);
 
         $filename_log = $dirname . DIRECTORY_SEPARATOR . $filename . '.log';
-        $filename_video = $dirname . DIRECTORY_SEPARATOR . $filename . '.mp4';
         $filename_info = $dirname . DIRECTORY_SEPARATOR . $filename . '.info';
 		$filename_cover = $dirname . DIRECTORY_SEPARATOR . $filename . '.jpg';
 		$filename_subtitle = $dirname . DIRECTORY_SEPARATOR . $filename . '.srt';
