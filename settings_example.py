@@ -98,7 +98,6 @@ ROOT_URLCONF = 'urls'
 INSTALLED_APPS = (
     'depender',
     'django_extensions',
-    'django.contrib.map',
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
 )
