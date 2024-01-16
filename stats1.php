@@ -143,7 +143,6 @@ Refresh:
         $filename_log = $dirname . DIRECTORY_SEPARATOR . $filename . '.log';
         $filename_info = $dirname . DIRECTORY_SEPARATOR . $filename . '.info';
 		$filename_cover = $dirname . DIRECTORY_SEPARATOR . $filename . '.jpg';
-		$filename_subtitle = $dirname . DIRECTORY_SEPARATOR . $filename . '.srt';
 
         $modified_date = date('Y-m-d H:i:s', filemtime($filename_log));
         if (is_file($filename_video)) {
