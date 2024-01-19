@@ -121,7 +121,7 @@ Refresh:
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">progress</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">progress bar</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">last modified date</th>
-		<th onclick="sortTable(<?php echo ++$sort_index; ?>)">info</th>
+		<th onclick="sortTable(<?php  ++$sort_index; ?>)">info</th>
 		<th onclick="sortTable(<?php echo ++$sort_index; ?>)">log</th>
     </tr>
     </thead>
