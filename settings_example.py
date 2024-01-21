@@ -90,6 +90,7 @@ TEMPLATE_LOADERS = (
 
 MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
+  // low
     'djangomako.middleware.MakoMiddleware',
 )
 
