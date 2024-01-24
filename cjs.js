@@ -11,7 +11,7 @@ module.exports = function (config) {
         },
     #remove continue client
     reporters: ['progress', 'kjhtml'],
-    port: 9876,
+    port: 986,
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
