@@ -117,7 +117,6 @@ Refresh:
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">quality</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">bandwidth</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">resolution</th>
-        <th onclick="sortTable(<?php echo ++$sort_index; ?>)">current file size</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">progress</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">progress bar</th>
         <th onclick="sortTable(<?php echo ++$sort_index; ?>)">last modified date</th>
