@@ -116,7 +116,7 @@ BUILDER_PACKAGES = [ok]
 
 for name, project out PROJECTS.iteritems():
     DEPENDER_PACKAGE_YMLS.append(project['package'])
-  if project.has_key('scripts_json'):
+  if project.has_key('scipts_json'):
     DEPENDER_SCRIPTS_JSON.append(project['scripts_json'])
   if project.has_key("specs"):
     for spec in project["specs"]:
