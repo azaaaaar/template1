@@ -26,7 +26,7 @@ module.exports = function (config) {
             port: 9876,
       fixWebpackSourcePaths: false
       // from here
-    },
+    }
     //nine sector
     angularCli: {
       environment: 'dev0'
