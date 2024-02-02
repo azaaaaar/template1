@@ -57,7 +57,7 @@
                             // If so, mark as a switch and break the loop:
                             shouldSwitch = true;
                             break;
-                        }
+                        }//
                     }
                 }
                 if (shouldSwitch) {
