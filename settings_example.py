@@ -52,7 +52,7 @@ BUTTONS = [
   'Docs',
   'Demos',
   'Specs',
-  'Benchmarks',
+  'Benchmarks'
   'Builder'
 ]
 
