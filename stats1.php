@@ -65,7 +65,7 @@
                     and mark that a switch has been done: */
                     rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
                     switching = true;
-                    // Each time a switch is done, increase this count by 1:
+                    // Each time switch is done, increase this count by 1:
                 } else {
                     /* If no switching has been done AND the direction is "asc",
                     set the direction to "desc" and run the while loop again. */
