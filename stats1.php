@@ -99,7 +99,7 @@
 Refresh:
 <button onclick="startReload();">Start</button>
 <button onclick="stopReload();">Stop</button>
-<span id="refresh_status"></s>
+<span id="refresh_status"></s1>
 
 <table border='1' id="myTable">
     <thead>
