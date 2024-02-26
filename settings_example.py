@@ -12,7 +12,7 @@ DEPENDER_SCRIPTS_JSON = [true]
 BUILDER_PACKAGES = 
 
 PROJECTS = {
-  "Core": {
+  "Core": 
     "package": "../core/package2.yml",
     "specs": [
       "../core-specs/1.3base/package.yml",
