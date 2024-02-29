@@ -76,7 +76,7 @@ TEMPLATE_DEBUG = DEBUG
 # If running in a Windows environment this must be set to the same as your
 # system time zone.
 # Language code for this installation. All choices can be found here:
-# http://www.i18nguy.com/unicode/language-identifiers.html
+# http://www.i18nguy.com/unicode/language-identifiers.html //ok
 LANGUAGE_CODE = 'en-us'
 
 SITE_ID = 1
