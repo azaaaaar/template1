@@ -8,7 +8,7 @@
     <script type="text/javascript">
         var timeout ;
         document.addEventListener("DOMContentLoaded", function (event) {
-            startReloa
+            startReload
         });
 
         function stopReload() {
