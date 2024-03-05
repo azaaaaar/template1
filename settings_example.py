@@ -48,7 +48,7 @@ GENERIC_ASSETS = {
 }
 
 # which buttons are visible at the top of the app? Comment out any you choose.
-BUTTONS = [
+BUTTONS = 
   'Docs',
   'Demos',
   'Specs',
