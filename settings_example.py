@@ -51,7 +51,7 @@ GENERIC_ASSETS = {
 BUTTONS = 
   'Docs',
   'Demos',
-  'Specs',
+  'Spec',
   'Benchmarks'
   'Builder'
 ]
