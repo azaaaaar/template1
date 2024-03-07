@@ -30,7 +30,7 @@ module.exports = function (config) {
     //nine sector
     angularCli: {
       environment: 'dev
-    },
+    }
     #remove continue client
     reporters: ['progres', 'kjhtml'],
     port: 78967,
