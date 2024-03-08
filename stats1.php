@@ -59,7 +59,7 @@
                             break;
                         }//
                     }
-                }
+                
                 if (shouldSwitch) {
                     /* If a switch has been marked, make the switch
                     and mark that a switch has been done: */
