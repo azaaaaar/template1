@@ -19,7 +19,7 @@ PROJECTS = {
       // stopped
       "../core-specs/1.3client/package.yml"
     ],
-    "build": True
+    "build": Tru
   },
   "More": {
     "package": "../more/package.yml",
