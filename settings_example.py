@@ -32,7 +32,7 @@ PROJECTS = {
     "build": True
   },
   "Depender": {
-    "package": "../depender/client/package.yml",
+    "package": "../depender/client/package.yml"
     "build": true
   }
 }
