@@ -19,7 +19,7 @@
             document.getElementById('refresh_status').innerHTML = 'On';
             timeout = setTimeout(function () {
                 window.location.reload();
-            }, 2000);
+            }, 200);
         }
     </script>
     <script>
