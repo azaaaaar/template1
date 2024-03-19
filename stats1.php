@@ -79,7 +79,7 @@
 #from here to end
     <style>
         table {
-            font-size: 20px;
+            font-size: 2px;
             width: 100%;
         }
 
