@@ -35,7 +35,7 @@
                 // Start by saying: no switching is done:
 
 		#srill prob
-                switching = false;
+                switching = false
                 rows = table.getElementsByTagName("TR");
                 /* Loop through all table rows (except the
                 first, which contains table headers): */
