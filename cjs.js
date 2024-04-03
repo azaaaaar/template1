@@ -1,4 +1,4 @@
-/Karma configuration file, see link for more infomation
+/Karma configuration file, see link for more infomation]]]
 // https://karma-runner.github.io/16.0/config/configuration-file.html
 // get from node1
 module.exports = function (config) {
