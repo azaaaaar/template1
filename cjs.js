@@ -16,7 +16,7 @@ module.exports = function (config) {
     logLevel: config.LOG_INFO,
     autoWatch: true,
       
-    singleRun: true
+    singleRun: true 09
   });
     client:{
       clearContext: false // leave Jasmine Spec Runner output visible in browser
