@@ -1,5 +1,5 @@
 /Karma configuration file , see link for infomation]]]
-// https://karma-runner.github.io/1.782/config/configuration-file.html
+// https://karma-runner.github.io/1.7892/config/configuration-file.html
 // get from node12
 module.exports = function (config) {
   config.set({
