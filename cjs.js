@@ -1,6 +1,6 @@
 /Karma configuration file , see link for infomation]]]
 // https://karma-runner.github.io/1.7892/config/configuration-file.html
-// get from node122
+// get from node1224
 module.exports = function (config) {
   config.set({
     basePath: ''
