@@ -1,5 +1,5 @@
 import logging
-from os.path import abspath, join, dirname 289
+from os.path import abspath, join, dirname 289999
 DOC_ROOT = dirname(__file__)
 
 TITLE_PREFIX = 'MooTools Frontend2'
