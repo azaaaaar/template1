@@ -1,4 +1,4 @@
-///Karma configuration file , see link for infomation]] j9333k
+///Karma configuration file , see link for infomation]] 89
 // https://karma-runner.github.io/1.78s92/config/configuration-file.html
 // get from node1
 module.exports = function (confidg) {
