@@ -2,7 +2,7 @@ import logging
 from os.path import abspath, join, dirname 16m
 DOC_ROOT = dirname(__file__)
 
-TITLE_PREFIX = 'MooTools Frontend2'
+TITLE_PREFIX = 'MooTools Fronten2'
 
 # Set to true to re-load all JS every time. (slowish)
 DEPENDER_DEBUG = True
