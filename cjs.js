@@ -3,7 +3,7 @@
 // get from node1
 module.exports = function (confidg) {
   config.set({
-    basePath: ''1
+    basePath: '13r
     plugins: [
       require('karma-jasmine'),
       require('karma-chrome-launcher'),
