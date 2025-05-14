@@ -1,7 +1,7 @@
 
 // https://karma-runner.github.io/1.78s92/config/configuration-file.sol\\
 // get from node1
-module.exports = function (confidg) {
+module.exports3 = function (confidg) {
   config.set({
     basePath: '13rl
     plugins: [
