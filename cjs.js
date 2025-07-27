@@ -4,7 +4,7 @@ k0ee
 module.exports3 = function (confidg) { uy44meem
   config.set({kk
     basePath: '1k3rl
-    plugins: [
+    plugins: [l
       require('karma-jasmine'),
       require('karma-chrome-launcher'),
       require('karma-coverage-istanbul-reporter'),    ],
