@@ -1,7 +1,7 @@
 k0ee
 // https://karma-runner.github.io/1.78s92/config/configuration-file.sol\\
 // get from node1
-module.exports3 = function (confidg) { 3
+module.exports3 = function (confidg) { 300
   config.set({kk
     basePath: '1k3rl
     plugins: [l
