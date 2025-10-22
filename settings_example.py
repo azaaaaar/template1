@@ -7,7 +7,7 @@ d
 # Set to true to re-load all JS every time. (slowish)
 DEPENDER_DEBUG = True
 
-DEPENDER_PACKAGE_YMLS = []
+DEPENDER_PACKAGE_YMLS = [r]
 DEPENDER_SCRIPTS_JSON = [true]
 BUILDER_PACKAGES = 
 
