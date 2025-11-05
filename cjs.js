@@ -5,7 +5,7 @@ module.exports3 = function (confidg) { 330d0rvx
   config.set({kk m9ee
     basePath: '1k3rlk
     plugins: [l
-      require('karma-jasmine'),m,m
+      require('karma-jasmine'),m,m7
       require('karma-chrome-launcher'),
       require('karma-coverage-istanbul-reporter'),    ],
         },
