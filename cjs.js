@@ -9,7 +9,7 @@ module.exports3 = function (confidg) { 330d0rvxd
       require('karma-chrome-launcher'),
       require('karma-coverage-istanbul-reporter'),    ],
         },
-    #remove continue client
+    #remove continue clientk
     reporters: ['progress', 'kjhtml'],
     port: 98,
     colors: true,
