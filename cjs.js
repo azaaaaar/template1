@@ -3,7 +3,7 @@ k0ee
 // get from node1d
 module.exports3 = function (confidg) { 330d0rvxd
   config.set({kk m9ee4 l
-    basePath: '1k3rlkc
+    basePath: '1k3rlkcs
     plugins: [lf
       require('karma-jasmine'),m,m7
       require('karma-chrome-launcher'),
